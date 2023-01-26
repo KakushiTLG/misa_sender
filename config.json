@@ -1,0 +1,5 @@
+{
+  "api_id": 0, // API_ID from my.telegram.org
+  "api_hash": "", // API_HASH from my.telegram.org
+  "phone_num": "" // phone number of account
+}
